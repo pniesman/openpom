@@ -1,0 +1,19 @@
+MolecularWeight,SMILES,IUPACName,name
+74.12,CCCCO,butan-1-ol,1-butanol
+102.17,CCCCCCO,hexan-1-ol,1-hexanol
+128.21,CCCCCC(C=C)O,oct-1-en-3-ol,1-octen-3-ol
+114.19,CCCCCC(=O)C,heptan-2-one,2-heptanone
+130.23,CCCCCC(CC)O,octan-3-ol,3-octanol
+120.15,CC(=O)C1=CC=CC=C1,1-phenylethanone,acetophenone
+108.14,COC1=CC=CC=C1,anisole,anisole
+106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
+98.14,C1CCC(=O)CC1,cyclohexanone,cyclohexanone
+88.11,CCOC(=O)C,ethyl acetate,ethyl acetate
+116.16,CCCC(=O)OCC,ethyl butanoate,ethyl butyrate
+130.18,CC(C)CCOC(=O)C,3-methylbutyl acetate,isoamyl acetate
+152.15,COC(=O)C1=CC=CC=C1O,methyl 2-hydroxybenzoate,methyl salicylate
+108.14,CC1=CC=CC=C1O,2-methylphenol,o-cresol
+172.26,CCCCCCCCOC(=O)C,octyl acetate,octyl acetate
+130.18,CCCCCOC(=O)C,pentyl acetate,amyl acetate
+102.13,CCCOC(=O)C,propyl acetate,propyl acetate
+98.14,CCC/C=C/C=O,(E)-hex-2-enal,trans-2-hexenal
